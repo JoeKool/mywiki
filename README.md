@@ -1,0 +1,4 @@
+mywiki
+======
+
+Technical notes
