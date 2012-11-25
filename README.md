@@ -15,4 +15,8 @@ To propogate gestures through layers, let the scene handle the gestures and then
 (handling gestures through multiple layers)
 http://www.cocos2d-iphone.org/forum/topic/16001
 
+Sharing data across apps - iCloud is one option but requires to be online?
+
+
+
 
