@@ -17,6 +17,9 @@ http://www.cocos2d-iphone.org/forum/topic/16001
 
 Sharing data across apps - iCloud is one option but requires to be online?
 
+http://landonf.bikemonkey.org/code/iphone/iPhone_Framework_Support.20081202.html
+
+
 
 
 
