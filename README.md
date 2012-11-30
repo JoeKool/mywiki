@@ -23,3 +23,6 @@ Useful library:
 https://github.com/AFNetworking/AFNetworking
 
 http://www.raywenderlich.com/15916/how-to-synchronize-core-data-with-a-web-service-part-1
+
+http://www.johnwordsworth.com/2011/07/loading-cocos2d-sprite-frame-animations-from-plist-files/
+
