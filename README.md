@@ -26,3 +26,4 @@ http://www.raywenderlich.com/15916/how-to-synchronize-core-data-with-a-web-servi
 
 http://www.johnwordsworth.com/2011/07/loading-cocos2d-sprite-frame-animations-from-plist-files/
 
+https://github.com/davedelong/CHCSVParser/tree/master/CHCSVParser
